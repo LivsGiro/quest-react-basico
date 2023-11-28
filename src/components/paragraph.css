@@ -1,0 +1,9 @@
+.text-card{
+    background-color: gainsboro;
+    color: darkmagenta;
+    padding: 20px;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
